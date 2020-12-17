@@ -1,7 +1,7 @@
-## Test Project
+# Test Project
 
-# Description
+## Description
 This is a test project to practise Github
 
-# Installation Instructions
+## Installation Instructions
 Just clone and code
